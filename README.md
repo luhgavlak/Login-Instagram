@@ -7,3 +7,6 @@
 
 ## Demonstração
 <h1 align="center">
+  <img src="https://github.com/luhgavlak/Landing-Page-Instagram/blob/main/screenshot/claro.png" />
+  <img src="https://github.com/luhgavlak/Landing-Page-Instagram/blob/main/screenshot/escuro.png" />
+</h1>
