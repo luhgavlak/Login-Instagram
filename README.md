@@ -1,7 +1,7 @@
 # Página de Login do Instagram
 
 ## Descrição do projeto
-<p> ⛏ Projeto inspirado na página estática do Instagram nas duas opções de tema: claro e escuro. </p>
+<p> ⛏ Projeto inspirado na página estática de login do Instagram nas duas opções de tema: claro e escuro. </p>
 <p> 💻Tecnologias utilizadas: HTML e CSS </p>
 <h4> 🚧  Projeto concluído  🚧 </h4>
 
