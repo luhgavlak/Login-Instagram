@@ -1,4 +1,4 @@
-# Landing Page Instagram
+# Página de Login do Instagram
 
 ## Descrição do projeto
 <p> ⛏ Projeto inspirado na página estática do Instagram nas duas opções de tema: claro e escuro. </p>
